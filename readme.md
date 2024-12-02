@@ -6,7 +6,7 @@ Welcome to our *Tomb of Annihilation* campaign repository! Here, you’ll find p
 
 ## Campaign Documents
 
-- [Campaign Goals](./campaign-goals.md): The over-arching narrative for the campaign, primarily focusing on who the primary villain is.
+- [Campaign Goals](./campaign-goals.md): An outline of the major objectives and antagonists driving the narrative of our campaign.
 
 - [Session Planning](./session-planning.md): Detailed breakdowns of each session’s objectives, challenges, and story arcs. Designed to guide the Dungeon Master through the campaign’s intricacies and ensure a seamless adventure for the players.
 
