@@ -61,6 +61,8 @@ Dan is a Dwarf Cleric. His blessings prepare the party when they can sense somet
 - On the way, we met **Undril Silver·tusk** at the **Temple of Savras**
 	- Undril mentioned wanting to travel to **Camp Vengeance**, but that didn’t mean anything to the group just yet
 
+- The group also encountered Volo! They bought his Book of Monsters, exchanging it for the Ring of Necrotic Spellcasting!
+
 - Eventually, the group arrived at Goldenthrone, and chanced to run into Wakanga there
 
 - They followed him to his Villa, where he gave them a partial **Map of Chult**, and redirected them to Jobal for more info
@@ -119,3 +121,35 @@ Dan is a Dwarf Cleric. His blessings prepare the party when they can sense somet
 
 - After resting the night, the party discovered that the Giant Crocodile had been devoured by animals in the night
 	- They don’t realise that it was **Azaka** in were-tiger form
+
+## Session 3
+
+- After a few days of uneventful travel, the party encountered Scouts from the Emerald Enclave. Armean offered a hug, and (after rolling a nat. 20), the lead Scout accepted. After a warm embrace, conversation about the Death Curse continued, and they departed in peace. The party has a standing offer to visit their settlement, which exists somewhere near Camp Righteous.
+
+- At Camp Vengeance, Commander Breakbone tried to enlist the party to do some other unpaid quests and dirty work (including cleaning some latrines), but Undril intervened, and the party was able to leave peacefully.
+
+- The party reached the end of River Shoshenstar, and continued on foot into the Aldani Basin.
+
+- While in the swampland, the party encountered a group of 8 (very cute) flying monkeys. The monkeys had eaten all their rations! It was an easy battle. They caught one in Armean’s Bag of Holding, but later released it. The Living Hand was unharmed.
+
+- A huge tiger appeared in the aftermath of the battle. The party suspected that it was Azaka, but weren't sure. The tiger was going after the monkey meat. They managed to convince it to leave, primarily through Ryoku's ability to talk to animals.
+
+- Out of rations, the party tried to turn the monkeys into jerky, but Azaka warned them off the idea, citing Mad Monkey Disease (which, incidentally, hasn't got anything to do with monkeys – but Azaka didn't know that).
+
+- The party reached the River Tath, and continued upstream by canoe. Some Pterefolk appeared in the sky, watching them paddle.
+
+- A day later, while canoing, another Giant Crocodile appeared in the water beside them! Riva used the Fly spell on the Crocodile, who willingly accepted the magic, and used it to launch itself into the sky. It crunched into one of the Pterefolk, killing it in a single bite.
+
+- Riva concluded the Fly spell with the Croc 150 feet in the air. The party tried to paddle out of the way, but was unsuccessful. The giant crocodile landed directly on top of one of the canoes, compeletely destroying it, and sending Armean, Zacian, and Dan diving into the river. The other boat was rocked by the shockwave, and Ryoku also lost her footing, falling into the water.
+
+- The Croc, deadly in the water, attacked Zacian, pulling him under. The rest of the party, with help from the circling Pterefolk, managed to slay the Croc with a mix of Azaka's longbow, Acacia's "Minute Meteor's", Riva's Eldritch Blast, and a handful of javelins.
+
+- In his heavy armour, Zacian had a hard time recovering and coming back up for air. He eventually made it to the shore.
+
+- Out of food and without boat transportation, the party needed to make the rest of the trek to Orolunga on foot. They scavenged each day, going only a few days without food.
+
+- They finally arrived at Orolunga, and stood before the large ziggurat there. Following the demonstrations of the chwingas, they passed the first two tests (vines with an orchid, dust with a feather). Armean completed the final test, by shocking a snake with the flower, stroking it with a feather, and allowing it to pass into his mouth. Once up the final flight of stairs, he lowered a rope, and the rest of the party (unwilling or unable to swallow a snake) joined him.
+
+- Saja N'Baza (the guardian naga of Orolunga) appeared to them as a serpent. They told her of the death curse and the Soulmonger, and she said that it aligned with what she knew of Ras Nsi. She told them about his backstory (a Paladin who became a Yuan-Ti after leading a failed rebellion and being exiled), and that he was trying to bring about the end of the world. Saja told the party to look for him in Omu, and marked Omu on their map.
+
+- She also told them of a secret pass through the mountains that would get the group to the beach. They would find a boat there that they could sail to Nyanzaru.
